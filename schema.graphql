@@ -33,4 +33,5 @@ enum Platform {
   SuperRare
   Meme
   Sorare
+  NftKey
 }
